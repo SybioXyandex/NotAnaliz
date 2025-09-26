@@ -1,0 +1,23 @@
+
+{
+  "name": "NotAnaliz - AI Destekli Not Takip Sistemi",
+  "short_name": "NotAnaliz",
+  "description": "AI destekli not takip ve analiz sistemi ile öğrencilerin performansını izleyin ve geliştirin.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f0f2f5",
+  "theme_color": "#6a11cb",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
